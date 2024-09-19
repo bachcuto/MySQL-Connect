@@ -6,7 +6,7 @@ package bach.dev;
 import java.sql.DriverManager;
 /**
  *
- * @author QUOC
+ * @author BACH
  */
 public class MainApp {
             public static void main(String[] args) {
